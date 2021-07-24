@@ -18,7 +18,7 @@ const ChampionTrendItemWrapper = styled(ChampionTrendHeader)`
     background-color: white;
     display: flex; 
     
-    border: 1px solid #e9eff4;
+    border: 1px solid #e9eff4; 
 
     &:not(:last-child) {
         border-bottom: none;
